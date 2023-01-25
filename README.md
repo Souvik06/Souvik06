@@ -1,8 +1,8 @@
-### Hi there 👋
-### Souvik Chatterjee here.
-### - 🔭 I’m currently working on Cognizant as Test Analyst.
-### - 🌱 I’m currently learning Data Structures and Algorithms to improve my development skills.
-### - 📫 How to reach me: From my [Portfolio](https://souvik06.github.io/digitalPortfolio/)
+Hi there 👋
+Souvik Chatterjee here.
+- 🔭 I’m currently working on Cognizant as Test Analyst.
+- 🌱 I’m currently learning Data Structures and Algorithms to improve my development skills.
+- 📫 How to reach me: From my [Portfolio](https://souvik06.github.io/digitalPortfolio/)
 
 
 <!--
