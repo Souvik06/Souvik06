@@ -1,4 +1,4 @@
-👋 Hi, Souvik Chatterjee here!
+### 👋 Hi, Souvik Chatterjee here!
    - 🔭 I’m currently working on Cognizant as Test Analyst.
    - 🌱 I’m currently learning Data Structures and Algorithms to improve my development skills.
    - 👀 I'm interested in Full Stack Development, Data Science (ML, AI, DL).
