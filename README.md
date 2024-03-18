@@ -1,5 +1,5 @@
 ### 👋 Hi! Souvik Chatterjee, here.
-   - 🔭 I’m currently working on Cognizant as Test Analyst.
+   - 🔭 I’m currently working on Cognizant as Sr. Test Analyst.
    - 🌱 I’m currently learning Data Structures and Algorithms to improve my development skills.
    - 👀 I'm interested in Full Stack Development, Data Science (ML, AI, DL).
    - 📫 How to reach me: [Portfolio](https://souvik06.github.io/Portfolio_1.0/), [LinkedIn](https://www.linkedin.com/in/souvik06/), [Mail](mailto:souvik.chat2011@gmail.com).
