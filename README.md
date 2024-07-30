@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **souvik.chat2011@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CXWUJTjtYNxPjBm7bXJD7ZA71CNodqa0/view)
+- 📄 Know about my experiences mention in my [Resume](https://drive.google.com/file/d/1CXWUJTjtYNxPjBm7bXJD7ZA71CNodqa0/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
