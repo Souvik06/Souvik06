@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Chatterjee</h1>
-<h3 align="center">Sr. Test Analyst & An Aspiring Data Analyst</h3>
+<h3 align="center">Sr. Test Analyst | An Aspiring Data Analyst</h3>
 
 
 - 🌱 I’m currently learning **Data Visualization using PowerBI**
